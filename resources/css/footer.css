@@ -83,7 +83,7 @@
 }
 .logobutton1{
     position: relative;
-   background-image: url(logo1.png);
+   background-image: url(../images/logo1.png);
    padding: 24px;
    border-radius: 25px;
    border-style: none;
@@ -92,7 +92,7 @@
 }
 .logobutton2{
     position: relative;
-   background-image: url(logo2.png);
+   background-image: url(../images/logo2.png);
    padding: 24px;
    border-radius: 25px;
    border-style: none;
@@ -101,7 +101,7 @@
 }
 .logobutton3{
     position: relative;
-   background-image: url(logo3.png);
+   background-image: url(../images/logo3.png);
    padding: 24px;
    border-radius: 25px;
    border-style: none;
@@ -110,7 +110,7 @@
 }
 .logobutton4{
     position: relative;
-   background-image: url(logo4.png);
+   background-image: url(../images/logo4.png);
    padding: 24px;
    border-radius: 25px;
    border-style: none;
@@ -227,7 +227,7 @@
 }
 .contactus-btn1{
     position: relative;
-    background-image: url(btn1.png);
+    background-image: url(../images/btn1.png);
     border-radius: 10px;
     height: -20px;
     width: 52px;
