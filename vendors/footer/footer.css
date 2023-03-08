@@ -8,7 +8,7 @@
 }
 /* About Us Div */
 .aboutus-div{
-   right: 20%;
+   left: 3%;
     position: relative;
 }
 .aboutus-text1{
@@ -30,32 +30,10 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
-@media only screen and (max-width: 600px){
-    #footer-div{
-        height: 200%;
-    }
-    .aboutus-div{
-        left: 15%;
-        white-space: nowrap;
-    }
-    #quicklinks-div{
-        float: right;
-        left: 20%;
-        white-space: nowrap;
-    }
-    .quicklinks-text1{
-        white-space: nowrap;
-    }
-    #healthcorner-div{
-        position: relative;
-        top: 25rem;
-        left: -55%;
-        white-space: nowrap;
-    }
-}
+
 /* Quick Links Div */
 #quicklinks-div{
-   right: 15%;
+   left: 6%;
    position: relative; 
   
 }
@@ -142,7 +120,7 @@
 /* Health corner css */
 #healthcorner-div{
     position: relative;
-    right: 10%;
+    left: 11%;
 }
 .healthcorner-text1{
     color: #fcb712;
@@ -193,7 +171,139 @@
     top: 8rem;
 }
 /* Contact Us div */
+#contactus-div{
+    position: relative;
+    left: 24%;
+}
 .contactus-text1{
     color: #fcb712;
     font-size: 1.5rem;
+}
+.contactus-text2{
+    position: relative;
+    left: 1.7rem;
+    color: white;
+    bottom: 2.1rem;
+}
+.contactus-text3{
+    position: relative;
+    left: 1.7rem;
+    color: white;
+    bottom: 4.1rem;
+}
+.contactus-text4{
+    position: relative;
+    left: 1.7rem;
+    color: white;
+    bottom: 6.1rem;
+}
+.contactus-text5{
+    position: relative;
+    left: 1.7rem;
+    color: white;
+    bottom: 8.1rem;
+}
+.contactus-text6{
+    position: relative;
+    left: 1.7rem;
+    color: white;
+    bottom: 9.4rem;
+    text-decoration: none;
+}
+.contactus-text7{
+    position: relative;
+    left: 1.7rem;
+    color: white;
+    bottom: 8.4rem;
+    text-decoration: none;
+}
+.mailarea{
+    position: relative;
+    border-radius: 10px;
+    padding: 5px;
+    bottom: 5rem;
+    border-style: none;
+    right: 43%;
+}
+.contactus-btn1{
+    position: relative;
+    background-image: url(btn1.png);
+    border-radius: 10px;
+    height: -20px;
+    width: 52px;
+    padding: 24px;
+    border-radius: 28px;
+    bottom: 5.3rem;
+    right: 45%;
+}
+/* End text  */
+#endtext-div{
+    position: relative;
+}
+.p1{
+    color: #fcb712;
+    position: relative;
+    top: 28rem;
+    right: 270%;
+}
+.p2{
+    color: #fcb712;
+    position: relative;
+    top: 25.9rem;
+    right: 200%;
+}
+.p3{
+    color: #fcb712;
+    position: relative;
+    top: 23.7rem;
+    right: 70%;
+}
+@media only screen and (max-width: 600px){
+    #footer-div{
+        height: 240%;
+        
+    }
+    .aboutus-div{
+        left: 88%;
+        white-space: nowrap;
+    }
+    #quicklinks-div{
+        float: right;
+        left: 94%;
+        white-space: nowrap;
+    }
+    .quicklinks-text1{
+        white-space: nowrap;
+    }
+    #healthcorner-div{
+        position: relative;
+        top: 25rem;
+        left: 22%;
+        white-space: nowrap;
+    }
+    #contactus-div{
+        white-space: nowrap;
+        position: relative;
+        top: 60%;
+        left: -15%;
+    }
+    .p1{ 
+        position: relative;
+        top: 82rem;
+        right: 28rem;
+
+}
+.p2{
+    
+    position: relative;
+    top: 83rem;
+    right:31rem;
+    white-space: nowrap;
+}
+.p3{
+    position: relative;
+    top: 84rem;
+    right: 33rem;
+    white-space: nowrap;
+}
 }
