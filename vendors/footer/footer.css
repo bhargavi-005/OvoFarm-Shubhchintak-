@@ -1,0 +1,199 @@
+#footer-div{
+    position: absolute;
+    height: 70%;
+    width: 100%;
+    background-color: #3f3f3f;
+    display: flex;
+    justify-content: center;
+}
+/* About Us Div */
+.aboutus-div{
+   right: 20%;
+    position: relative;
+}
+.aboutus-text1{
+    color: #fcb712;
+    font-size: 1.5rem;
+}
+.aboutus-text2{
+    color: white;
+}
+.aboutus-button{
+    background-color: transparent;
+    border-style: none;
+    color: #fcb712;
+    margin-left: 50%;
+}
+.aboutus-button:hover{
+    border-style:solid;
+    border-color: #fcb712;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+@media only screen and (max-width: 600px){
+    #footer-div{
+        height: 200%;
+    }
+    .aboutus-div{
+        left: 15%;
+        white-space: nowrap;
+    }
+    #quicklinks-div{
+        float: right;
+        left: 20%;
+        white-space: nowrap;
+    }
+    .quicklinks-text1{
+        white-space: nowrap;
+    }
+    #healthcorner-div{
+        position: relative;
+        top: 25rem;
+        left: -55%;
+        white-space: nowrap;
+    }
+}
+/* Quick Links Div */
+#quicklinks-div{
+   right: 15%;
+   position: relative; 
+  
+}
+.quicklinks-text1{
+    color: #fcb712;
+    font-size: 1.5rem;
+}
+.quicklinks-links{
+    position: relative;
+    left: 1.5rem;
+}
+.link1{
+    position: relative;
+    bottom: 12.2rem;
+    text-decoration: none;
+    color: white;
+}
+.link2{
+    position: relative;
+    bottom: 12.5rem;
+    text-decoration: none;
+    color: white;
+}
+.link3{
+    position: relative;
+    bottom: 12.7rem;
+    text-decoration: none;
+    color: white;
+}
+.link4{
+    position: relative;
+    bottom: 12.9rem;
+    text-decoration: none;
+    color: white;
+}
+.link5{
+    position: relative;
+    bottom: 13.1rem;
+    text-decoration: none;
+    color: white;
+}
+.link6{
+    position: relative;
+    bottom: 13.4rem;
+    text-decoration: none;
+    color: white;
+}
+.logobutton1{
+    position: relative;
+   background-image: url(logo1.png);
+   padding: 24px;
+   border-radius: 25px;
+   border-style: none;
+   bottom: 12rem;
+   right: .5rem;
+}
+.logobutton2{
+    position: relative;
+   background-image: url(logo2.png);
+   padding: 24px;
+   border-radius: 25px;
+   border-style: none;
+   bottom: 12rem;
+   right: .5rem;
+}
+.logobutton3{
+    position: relative;
+   background-image: url(logo3.png);
+   padding: 24px;
+   border-radius: 25px;
+   border-style: none;
+   bottom: 12rem;
+   right: .5rem;
+}
+.logobutton4{
+    position: relative;
+   background-image: url(logo4.png);
+   padding: 24px;
+   border-radius: 25px;
+   border-style: none;
+   bottom: 12rem;
+   right: .5rem;
+}
+/* Health corner css */
+#healthcorner-div{
+    position: relative;
+    right: 10%;
+}
+.healthcorner-text1{
+    color: #fcb712;
+    font-size: 1.5rem;
+}
+.healthcorner-text2{
+    position: relative;
+    left: 8rem;
+    color: #fcb712;
+    text-decoration: none;
+    bottom: 10.6rem;
+}
+.healthcorner-text3{
+    position: relative;
+    left: 8rem;
+    color: white;
+    font-size: 12px;
+    bottom: 10.1rem;
+}
+.healthcorner-btn1{
+    position: relative;
+    text-decoration: none;
+    color: #fcb712;
+    font-size: 12px;
+    left: 9rem;
+    top: 3.5rem;
+}
+.healthcorner-text21{
+    position: relative;
+    left: 8rem;
+    color: #fcb712;
+    text-decoration: none;
+    bottom: 7.3rem;
+}
+.healthcorner-text31{
+    position: relative;
+    left: 8rem;
+    color: white;
+    font-size: 12px;
+    bottom: 7rem;
+}
+.healthcorner-btn2{
+    position: relative;
+    text-decoration: none;
+    color: #fcb712;
+    font-size: 12px;
+    left: 9rem;
+    top: 8rem;
+}
+/* Contact Us div */
+.contactus-text1{
+    color: #fcb712;
+    font-size: 1.5rem;
+}
