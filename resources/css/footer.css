@@ -258,65 +258,8 @@
     top: 23.7rem;
     right: 70%;
 }
-@media only screen and (max-width: 800px){
-    
-    #footer-div{
-        position: absolute;
-        height: 140%;
-        padding-right: 130%;
-        
-        
-    }
-    .aboutus-div{
-        left: 135%;
-        white-space: nowrap;
-    }
-    #quicklinks-div{
-        float: right;
-        left: 185%;
-        white-space: nowrap;
-    }
-    .quicklinks-text1{
-        white-space: nowrap;
-    }
-    #healthcorner-div{
-        position: relative;
-        top: 25rem;
-        left: 35%;
-        white-space: nowrap;
-    }
-    #contactus-div{
-        white-space: nowrap;
-        position: relative;
-        top: 25rem;
-        left: 95%;
-    }
-    #endtext-div{
-        position: relative;
-       
-    }
-    .p1{ 
-        position: relative;
-        top: 55rem;
-        right: 28rem;
 
-}
-.p2{
-    
-    position: relative;
-    top: 56rem;
-    right:31rem;
-    white-space: nowrap;
-}
-.p3{
-    position: relative;
-    top: 58rem;
-    right: 33rem;
-    white-space: nowrap;
-}
-}
-
-/* @media only screen and (max-width: 600px){
+@media only screen and (max-width: 600px){
     #footer-div{
         height: 240%;
         
@@ -364,4 +307,4 @@
     right: 33rem;
     white-space: nowrap;
 }
-} */
+}
