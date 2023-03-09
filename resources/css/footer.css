@@ -258,21 +258,22 @@
     top: 23.7rem;
     right: 70%;
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 800px){
     
     #footer-div{
         position: absolute;
-        height: 240%;
+        height: 140%;
+        padding-right: 130%;
         
         
     }
     .aboutus-div{
-        left: 88%;
+        left: 135%;
         white-space: nowrap;
     }
     #quicklinks-div{
         float: right;
-        left: 94%;
+        left: 185%;
         white-space: nowrap;
     }
     .quicklinks-text1{
@@ -281,31 +282,35 @@
     #healthcorner-div{
         position: relative;
         top: 25rem;
-        left: 22%;
+        left: 35%;
         white-space: nowrap;
     }
     #contactus-div{
         white-space: nowrap;
         position: relative;
-        top: 60%;
-        left: -15%;
+        top: 25rem;
+        left: 95%;
+    }
+    #endtext-div{
+        position: relative;
+       
     }
     .p1{ 
         position: relative;
-        top: 82rem;
+        top: 55rem;
         right: 28rem;
 
 }
 .p2{
     
     position: relative;
-    top: 83rem;
+    top: 56rem;
     right:31rem;
     white-space: nowrap;
 }
 .p3{
     position: relative;
-    top: 84rem;
+    top: 58rem;
     right: 33rem;
     white-space: nowrap;
 }
