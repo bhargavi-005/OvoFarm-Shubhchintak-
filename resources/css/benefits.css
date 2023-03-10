@@ -1,0 +1,57 @@
+#secondimage-div{
+    position: relative;
+    
+}
+.righttext{
+    bottom: 23rem;
+    position: relative;
+    margin-left: 55%;
+}
+.righttext1{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "cocogoosereg", Sans-serif;
+}
+.righttext2{
+    color: white;
+    font-size: 15px;
+     font-family: "cocogoosereg", Sans-serif;
+}
+.lefttext{
+    bottom: 56rem;
+    position: relative;
+    margin-left: 20%;
+}
+.lefttext1{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "cocogoosereg", Sans-serif;
+}
+.lefttext2{
+    color: white;
+    font-size: 15px;
+     font-family: "cocogoosereg", Sans-serif;
+}
+.righttext11{
+    position: relative;
+    bottom: 63rem;
+    margin-left: 55%;
+}
+.righttext111{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "cocogoosereg", Sans-serif;
+}
+.righttext222{
+    color: black;
+    font-size: 15px;
+     font-family: "cocogoosereg", Sans-serif;
+}
+.righttext11 .li{
+    color: black;
+    font-size: 15px;
+     font-family: "cocogoosereg", Sans-serif;
+}
