@@ -1,0 +1,81 @@
+.orange-heading{
+    color: #fff;
+    font-family: cocogoosereg,Sans-serif;
+    font-weight: 600;
+    position: relative;
+    bottom: 25rem; 
+    left:23rem  ;  
+}
+
+.orange-text{
+    bottom: 23rem;
+    position: relative;
+    margin-left: 40%;
+}
+
+.orange-text1{
+    color: white;
+    font-size: 12pt;
+    line-height: 1.7;
+    font-weight:400;
+    font-family: "cocogoosereg", Sans-serif;
+    position: relative;
+    bottom: 0rem;
+    left:-17rem
+}
+
+.black-heading{
+    color: #fff;
+    font-family: cocogoosereg,Sans-serif;
+    font-weight: 600;
+    position: relative;
+    bottom: 30rem; 
+    left:10rem  ;
+    
+}
+
+.black-text{
+    bottom: 23rem;
+    position: relative;
+    margin-right: 40%;
+}
+
+.black-text1{
+    color: white;
+    font-size: 12pt;
+    position: relative;
+    line-height: 1.7;
+    font-family: "cocogoosereg", Sans-serif;
+    bottom: 5rem;
+    left: 10rem
+    
+}
+.our-product{
+position: relative;
+}
+
+.our-products-title{
+    position: relative;
+    bottom: 12rem;
+    left:-15rem;
+    width:55%; 
+    float:right; 
+    color:rgb(250, 179, 55); 
+    margin-top: -1rem;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }

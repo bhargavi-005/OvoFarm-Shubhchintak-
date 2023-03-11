@@ -1,0 +1,140 @@
+.orange-banner{
+    position:relative;
+}
+
+.heading{
+    color: #fff;
+    font-family: cocogoosereg,Sans-serif;
+    font-weight: 600;
+    position: relative;
+    bottom: 25rem; 
+    left:35rem  ;  
+}
+
+.righttext{
+    bottom: 23rem;
+    position: relative;
+    margin-left: 40%;
+}
+
+.righttext1{
+    color: white;
+    font-size: 10pt;
+    font-family: "cocogoosereg", Sans-serif;
+    bottom: 30rem
+    
+ 
+}
+.righttext2{
+    color: white;
+    font-size: 10pt;
+     font-family: "cocogoosereg", Sans-serif;
+     scroll-padding-bottom:30rem ;
+     line-height: 1.7;
+     position: relative;
+     
+}
+.caption{
+    text-align: center;
+    font-family: cocogooselight,Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #7a7a7a;
+    position: relative;
+    right: 10rem; 
+    left: -40rem;
+    bottom: 19rem;
+}
+
+.black-title{
+        font-weight: bolder;
+        color: #fff;
+    font-family: cocogooselight,Sans-serif;
+    position: relative;
+    bottom:42rem;
+    left:20rem
+}
+.black-heading{
+    color: #fff;
+    font-family: cocogoosereg,Sans-serif;
+    font-weight: 600;
+    position: relative;
+    bottom: 65rem; 
+    left:20rem  ;
+    
+}
+    
+.black-banner{
+    position:relative;
+    bottom: 25rem;
+
+}
+
+.black-text{
+    bottom: 23rem;
+    position: relative;
+    margin-right: 40%;
+}
+
+.black-text1{
+    color: white;
+    font-size: 12pt;
+    position: relative;
+    line-height: 1.7;
+    font-family: "cocogoosereg", Sans-serif;
+    bottom: 40rem;
+    left: 20rem
+    
+}
+
+.white-text{
+    bottom: 23rem;
+    position: relative;
+    margin-right: 40%;
+}
+
+.white-text1{
+    box-sizing: border-box;
+    color: #4d4c4c;
+    font-size: 12pt;
+    position: relative;
+    bottom: 28rem; 
+    left:50rem;
+    line-height: 1.7;
+    font-family: "cocogoosereg", Sans-serif;
+}
+
+.white-heading{
+    color: #4d4c4c;
+    font-family: cocogoosereg,Sans-serif;
+    font-weight: 600;
+    position: relative;
+    bottom: 53rem; 
+    left:50rem  ;
+}
+
+.orange-heading{
+    color: #fff;
+    font-family: cocogoosereg,Sans-serif;
+    font-weight: 600;
+    position: relative;
+    bottom: 60rem; 
+    left:12rem  ;  
+}
+
+.orange-text{
+    bottom: 23rem;
+    position: relative;
+    margin-left: 40%;
+}
+
+.orange-text1{
+    color: white;
+    font-size: 12pt;
+    line-height: 1.7;
+    font-weight:400;
+    font-family: "cocogoosereg", Sans-serif;
+    position: relative;
+    bottom: 35rem;
+    left:-10rem;
+}
